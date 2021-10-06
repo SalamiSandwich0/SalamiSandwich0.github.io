@@ -3,7 +3,16 @@
 /*Custom classNames */
 
 .topHeader {
+    color : whitesmoke;
     text-align: center;
     font-size: xx-large;
-    background-color: antiquewhite;
+    background-color: black;
 }
+
+.genericPic {
+    width : 25% ;
+    height : 25% ;
+    border-radius: 5% ;
+    align-items: center;
+}
+
